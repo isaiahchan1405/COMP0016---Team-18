@@ -1,10 +1,10 @@
-import requests   # lets Python make web requests (like curl, but in code)
-import json       # converts between JSON text and Python objects
-import time       # used to pause between requests
+# This script fetches all records from the IFRC Ops Learning API and saves them to a file in JSON Lines format.
 
-# The first page to fetch:
-#   limit=50  -> give me 50 records per page
-#   offset=0    -> start from the very first record
+import requests   
+import json       
+import time       
+
+# The first page to fetch
 url = "https://goadmin.ifrc.org/api/v2/ops-learning/?limit=50&offset=0"
 
 # Running count of how many records we've saved so far
@@ -18,7 +18,6 @@ with open("ops_learning.jsonl", "w", encoding="utf-8") as out:
     # When we reach the last page, url becomes None and the loop stops.
     while url:
 
-        # Ask the server for this page. Wait up to 120 seconds for a reply.
         r = requests.get(url, timeout=120)
 
         # If the server returned an error (e.g. 502 Bad Gateway), stop here
@@ -35,8 +34,6 @@ with open("ops_learning.jsonl", "w", encoding="utf-8") as out:
         data = r.json()
 
         # Write each record on its own line in the file (the "JSON Lines" format).
-        # This means we never hold the whole 600 MB in memory at once:
-        # only one page (~30 MB) at a time.
         for rec in data["results"]:
             out.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
@@ -44,13 +41,8 @@ with open("ops_learning.jsonl", "w", encoding="utf-8") as out:
         total += len(data["results"])
         print(f"{total} / {data['count']}")
 
-        # The API tells us where the next page is, so we don't have to
-        # work out the offset ourselves. On the last page, "next" is None,
-        # which ends the while loop.
         url = data.get("next")
 
-        # Wait half a second before the next request so we don't
-        # overload the server (and risk getting blocked).
         time.sleep(0.5)
 
 # When the loop ends, the "with" block automatically closes the file.

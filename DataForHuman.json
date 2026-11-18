@@ -1,0 +1,546 @@
+{
+    "count":  20054,
+    "next":  "https://goadmin.ifrc.org/api/v2/ops-learning/?limit=1000\u0026offset=1000",
+    "previous":  null,
+    "results":  [
+                    {
+                        "id":  20546,
+                        "appeal":  {
+                                       "id":  3766,
+                                       "code":  "MDRMR015",
+                                       "name":  "Mauritania - Floods",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  12,
+                                                             "id":  6586,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2023-08-19T00:00:00Z",
+                                                             "name":  "MRT: Flood - 2023-07 - Boghé Flood 2023",
+                                                             "translation_module_original_language":  "fr"
+                                                         },
+                                       "country":  114,
+                                       "start_date":  "2023-08-19T00:00:00Z"
+                                   },
+                        "document_url":  "https://go-api.ifrc.org/api/DownloadFile/85151/MDRMR015dfr",
+                        "document_name":  "Mauritania - Floods (MDRMR015)",
+                        "learning_en":  "100 volunteers trained on PGI standards contributed to improved sensitivity toward vulnerable groups, including women, children, and the elderly.",
+                        "learning_es":  null,
+                        "learning_fr":  null,
+                        "learning_ar":  null,
+                        "learning_validated":  "100 volunteers trained on PGI standards contributed to improved sensitivity toward vulnerable groups, including women, children, and the elderly.",
+                        "learning_validated_en":  "100 volunteers trained on PGI standards contributed to improved sensitivity toward vulnerable groups, including women, children, and the elderly.",
+                        "learning_validated_es":  null,
+                        "learning_validated_fr":  null,
+                        "learning_validated_ar":  null,
+                        "appeal_document_id":  27613,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2026-08-19T10:15:40.949759Z",
+                        "created_at":  "2026-05-01T08:27:59.467605Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRMR015",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 1
+                                             ],
+                        "per_component_validated":  [
+                                                        5,
+                                                        54
+                                                    ]
+                    },
+                    {
+                        "id":  12415,
+                        "appeal":  {
+                                       "id":  2755,
+                                       "code":  "MDRSD022",
+                                       "name":  "Sudan - Population Movement",
+                                       "atype":  "Emergency Appeal",
+                                       "event_details":  {
+                                                             "dtype":  5,
+                                                             "id":  176,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2015-07-10T00:00:00Z",
+                                                             "name":  "Sudan - Population Movement",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  161,
+                                       "start_date":  "2015-07-10T00:00:00Z"
+                                   },
+                        "document_url":  "https://adore.ifrc.org/Download.aspx?FileId=168218",
+                        "document_name":  "Sudan - Population Movement (MDRSD022)",
+                        "learning_en":  "• 10 health facilities and clinics will be rehabilitated and equipped.",
+                        "learning_es":  "• Se rehabilitarán y equiparán 10 establecimientos de salud y clínicas.",
+                        "learning_fr":  "• 10 établissements de santé et cliniques seront réhabilités et équipés.",
+                        "learning_ar":  "• سيتم تأهيل وتجهيز 10 مرافق صحية وعيادات.",
+                        "learning_validated":  "• 10 health facilities and clinics will be rehabilitated and equipped.",
+                        "learning_validated_en":  "• 10 health facilities and clinics will be rehabilitated and equipped.",
+                        "learning_validated_es":  "• Se rehabilitarán y equiparán 10 establecimientos de salud y clínicas.",
+                        "learning_validated_fr":  "• 10 établissements de santé et cliniques seront réhabilités et équipés.",
+                        "learning_validated_ar":  "• سيتم تأهيل وتجهيز 10 مرافق صحية وعيادات.",
+                        "appeal_document_id":  29854,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2024-05-09T06:17:30.854987Z",
+                        "created_at":  "2024-04-05T10:54:55.113366Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRSD022",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 4
+                                             ],
+                        "per_component_validated":  [
+                                                        14
+                                                    ]
+                    },
+                    {
+                        "id":  8274,
+                        "appeal":  {
+                                       "id":  307,
+                                       "code":  "M04EA028",
+                                       "name":  "Asia - Tsunami 2004",
+                                       "atype":  "Emergency Appeal",
+                                       "event_details":  {
+                                                             "dtype":  11,
+                                                             "id":  599,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2004-12-26T00:00:00Z",
+                                                             "name":  "Asia - Tsunami 2004",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  111,
+                                       "start_date":  "2004-12-26T00:00:00Z"
+                                   },
+                        "document_url":  "https://www.ifrc.org/docs/Appeals/04/2804fr.pdf",
+                        "document_name":  "Earthquake and Tsunamis",
+                        "learning_en":  "10. Human resources systems need to meet the needs of large-scale disasters and recovery programmes.",
+                        "learning_es":  "10. Los sistemas de recursos humanos deben satisfacer las necesidades de los desastres a gran escala y los programas de recuperación.",
+                        "learning_fr":  "10. Les systèmes de ressources humaines doivent répondre aux besoins des catastrophes de grande ampleur et des programmes de relèvement.",
+                        "learning_ar":  "10 - ويتعين على نظم الموارد البشرية أن تلبي احتياجات برامج الكوارث والإنعاش الواسعة النطاق.",
+                        "learning_validated":  "10. Human resources systems need to meet the needs of large-scale disasters and recovery programmes.",
+                        "learning_validated_en":  "10. Human resources systems need to meet the needs of large-scale disasters and recovery programmes.",
+                        "learning_validated_es":  "10. Los sistemas de recursos humanos deben satisfacer las necesidades de los desastres a gran escala y los programas de recuperación.",
+                        "learning_validated_fr":  "10. Les systèmes de ressources humaines doivent répondre aux besoins des catastrophes de grande ampleur et des programmes de relèvement.",
+                        "learning_validated_ar":  "10 - ويتعين على نظم الموارد البشرية أن تلبي احتياجات برامج الكوارث والإنعاش الواسعة النطاق.",
+                        "appeal_document_id":  33773,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2024-05-03T09:42:57.419139Z",
+                        "created_at":  "2024-04-05T08:34:47.140488Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "M04EA028",
+                        "organization_validated":  [
+                                                       1
+                                                   ],
+                        "sector_validated":  [
+                                                 5
+                                             ],
+                        "per_component_validated":  [
+                                                        29,
+                                                        54
+                                                    ]
+                    },
+                    {
+                        "id":  9462,
+                        "appeal":  {
+                                       "id":  1699,
+                                       "code":  "MDRCL006",
+                                       "name":  "Chile - Earthquake",
+                                       "atype":  "Emergency Appeal",
+                                       "event_details":  {
+                                                             "dtype":  2,
+                                                             "id":  577,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2010-02-27T00:00:00Z",
+                                                             "name":  "Chile - Earthquake",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  46,
+                                       "start_date":  "2010-02-27T00:00:00Z"
+                                   },
+                        "document_url":  "https://adore.ifrc.org/Download.aspx?FileId=46005",
+                        "document_name":  "Chile - Earthquake (MDRCL006)",
+                        "learning_en":  "10. Involving the beneficiaries in the work of the volunteers generates greater recognition of the Red Cross mission among communities, thus placing the organization before the civil society, thus generating reciprocal empowerment.",
+                        "learning_es":  "10. Involucrar a los beneficiarios en el trabajo de los voluntarios genera un mayor reconocimiento de la misión de la Cruz Roja entre las comunidades, colocando así a la organización ante la sociedad civil, generando así un empoderamiento recíproco.",
+                        "learning_fr":  "10. L’implication des bénéficiaires dans le travail des volontaires génère une plus grande reconnaissance de la mission de la Croix-Rouge parmi les communautés, plaçant ainsi l’organisation avant la société civile, générant ainsi une autonomisation réciproque.",
+                        "learning_ar":  "10- إن إشراك المستفيدين في عمل المتطوعين يولد اعترافا أكبر بمهمة الصليب الأحمر بين المجتمعات المحلية، وبالتالي يضع المنظمة أمام المجتمع المدني، وبالتالي يولد التمكين المتبادل.",
+                        "learning_validated":  "10. Involving the beneficiaries in the work of the volunteers generates greater recognition of the Red Cross mission among communities, thus placing the organization before the civil society, thus generating reciprocal empowerment.",
+                        "learning_validated_en":  "10. Involving the beneficiaries in the work of the volunteers generates greater recognition of the Red Cross mission among communities, thus placing the organization before the civil society, thus generating reciprocal empowerment.",
+                        "learning_validated_es":  "10. Involucrar a los beneficiarios en el trabajo de los voluntarios genera un mayor reconocimiento de la misión de la Cruz Roja entre las comunidades, colocando así a la organización ante la sociedad civil, generando así un empoderamiento recíproco.",
+                        "learning_validated_fr":  "10. L’implication des bénéficiaires dans le travail des volontaires génère une plus grande reconnaissance de la mission de la Croix-Rouge parmi les communautés, plaçant ainsi l’organisation avant la société civile, générant ainsi une autonomisation réciproque.",
+                        "learning_validated_ar":  "10- إن إشراك المستفيدين في عمل المتطوعين يولد اعترافا أكبر بمهمة الصليب الأحمر بين المجتمعات المحلية، وبالتالي يضع المنظمة أمام المجتمع المدني، وبالتالي يولد التمكين المتبادل.",
+                        "appeal_document_id":  31923,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2024-04-30T06:02:08.712384Z",
+                        "created_at":  "2024-04-05T09:30:06.030741Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRCL006",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 7
+                                             ],
+                        "per_component_validated":  [
+                                                        5
+                                                    ]
+                    },
+                    {
+                        "id":  9463,
+                        "appeal":  {
+                                       "id":  1699,
+                                       "code":  "MDRCL006",
+                                       "name":  "Chile - Earthquake",
+                                       "atype":  "Emergency Appeal",
+                                       "event_details":  {
+                                                             "dtype":  2,
+                                                             "id":  577,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2010-02-27T00:00:00Z",
+                                                             "name":  "Chile - Earthquake",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  46,
+                                       "start_date":  "2010-02-27T00:00:00Z"
+                                   },
+                        "document_url":  "https://adore.ifrc.org/Download.aspx?FileId=46005",
+                        "document_name":  "Chile - Earthquake (MDRCL006)",
+                        "learning_en":  "11. For multiplying (not adding) results, a coordinated work not only between different members of the Movement but also with other external agents is essential.",
+                        "learning_es":  "11. Para multiplicar (no sumar) los resultados, es fundamental un trabajo coordinado no solo entre los diferentes miembros del Movimiento, sino también con otros agentes externos.",
+                        "learning_fr":  "11. Pour multiplier (et non additionner) les résultats, un travail coordonné non seulement entre les différents membres du Mouvement, mais aussi avec d’autres agents extérieurs, est essentiel.",
+                        "learning_ar":  "11. من أجل مضاعفة (وليس إضافة) النتائج، من الضروري القيام بعمل منسق ليس فقط بين مختلف أعضاء الحركة ولكن أيضا مع وكلاء خارجيين آخرين.",
+                        "learning_validated":  "11. For multiplying (not adding) results, a coordinated work not only between different members of the Movement but also with other external agents is essential.",
+                        "learning_validated_en":  "11. For multiplying (not adding) results, a coordinated work not only between different members of the Movement but also with other external agents is essential.",
+                        "learning_validated_es":  "11. Para multiplicar (no sumar) los resultados, es fundamental un trabajo coordinado no solo entre los diferentes miembros del Movimiento, sino también con otros agentes externos.",
+                        "learning_validated_fr":  "11. Pour multiplier (et non additionner) les résultats, un travail coordonné non seulement entre les différents membres du Mouvement, mais aussi avec d’autres agents extérieurs, est essentiel.",
+                        "learning_validated_ar":  "11. من أجل مضاعفة (وليس إضافة) النتائج، من الضروري القيام بعمل منسق ليس فقط بين مختلف أعضاء الحركة ولكن أيضا مع وكلاء خارجيين آخرين.",
+                        "appeal_document_id":  31923,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2024-04-30T06:01:52.594041Z",
+                        "created_at":  "2024-04-05T09:30:07.634891Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRCL006",
+                        "organization_validated":  [
+                                                       1
+                                                   ],
+                        "sector_validated":  [
+                                                 7
+                                             ],
+                        "per_component_validated":  [
+                                                        38
+                                                    ]
+                    },
+                    {
+                        "id":  6916,
+                        "appeal":  {
+                                       "id":  3283,
+                                       "code":  "MDRVU008",
+                                       "name":  "Vanuatu - Tropical Cyclone Harold",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  null,
+                                                             "id":  4147,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2020-04-05T00:00:00Z",
+                                                             "name":  "GDACS Orange: Vanuatu TC Tropical Storm (maximum wind speed of 157 km/h)",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  7,
+                                       "start_date":  "2020-04-05T00:00:00Z"
+                                   },
+                        "document_url":  null,
+                        "document_name":  null,
+                        "learning_en":  "12% of those assisted and surveyed by VRCS reported being exposed to storm surge and had lost property and possessions during the cyclone as a result. Improving this situation cannot be achieved with technical solutions alone, as issues of land ownership and livelihoods would need to be considered concurrently. Supporting these communities living in coastal areas with early warning, early action awareness, together with advocacy and support for relocation where feasible, will be necessary.",
+                        "learning_es":  "El 12% de las personas asistidas y encuestadas por VRCS informaron haber estado expuestas a la marejada ciclónica y, como resultado, habían perdido propiedades y posesiones durante el ciclón. La mejora de esta situación no puede lograrse únicamente con soluciones técnicas, ya que las cuestiones de la propiedad de la tierra y los medios de subsistencia tendrían que examinarse al mismo tiempo. Será necesario apoyar a estas comunidades que viven en las zonas costeras con alerta temprana y concienciación sobre la acción temprana, junto con la promoción y el apoyo para la reubicación cuando sea posible.",
+                        "learning_fr":  "12 % des personnes aidées et interrogées par VRCS ont déclaré avoir été exposées à une onde de tempête et avoir perdu des biens pendant le cyclone. Il n’est pas possible d’améliorer cette situation avec des solutions techniques seules, car les questions de propriété foncière et de moyens de subsistance devraient être examinées simultanément. Il sera nécessaire de soutenir ces communautés vivant dans les zones côtières par des alertes précoces, des actions de sensibilisation précoces, ainsi que des activités de plaidoyer et un soutien à la réinstallation lorsque cela est possible.",
+                        "learning_ar":  "أفاد 12٪ ممن ساعدتهم وشملهم الاستطلاع من قبل جمعية الهلال الأحمر الفيتنامي أنهم تعرضوا لموجة العواصف وفقدوا ممتلكاتهم وممتلكاتهم أثناء الإعصار نتيجة لذلك. ولا يمكن تحسين هذا الوضع بالحلول التقنية وحدها، لأن المسائل المتعلقة بملكية الأراضي وسبل العيش تحتاج إلى النظر فيها في آن واحد. وسيكون من الضروري دعم هذه المجتمعات التي تعيش في المناطق الساحلية بالإنذار المبكر والتوعية بالعمل المبكر، إلى جانب الدعوة والدعم لإعادة التوطين حيثما كان ذلك ممكنا.",
+                        "learning_validated":  "12% of those assisted and surveyed by VRCS reported being exposed to storm surge and had lost property and possessions during the cyclone as a result. Improving this situation cannot be achieved with technical solutions alone, as issues of land ownership and livelihoods would need to be considered concurrently. Supporting these communities living in coastal areas with early warning, early action awareness, together with advocacy and support for relocation where feasible, will be necessary.",
+                        "learning_validated_en":  "12% of those assisted and surveyed by VRCS reported being exposed to storm surge and had lost property and possessions during the cyclone as a result. Improving this situation cannot be achieved with technical solutions alone, as issues of land ownership and livelihoods would need to be considered concurrently. Supporting these communities living in coastal areas with early warning, early action awareness, together with advocacy and support for relocation where feasible, will be necessary.",
+                        "learning_validated_es":  "El 12% de las personas asistidas y encuestadas por VRCS informaron haber estado expuestas a la marejada ciclónica y, como resultado, habían perdido propiedades y posesiones durante el ciclón. La mejora de esta situación no puede lograrse únicamente con soluciones técnicas, ya que las cuestiones de la propiedad de la tierra y los medios de subsistencia tendrían que examinarse al mismo tiempo. Será necesario apoyar a estas comunidades que viven en las zonas costeras con alerta temprana y concienciación sobre la acción temprana, junto con la promoción y el apoyo para la reubicación cuando sea posible.",
+                        "learning_validated_fr":  "12 % des personnes aidées et interrogées par VRCS ont déclaré avoir été exposées à une onde de tempête et avoir perdu des biens pendant le cyclone. Il n’est pas possible d’améliorer cette situation avec des solutions techniques seules, car les questions de propriété foncière et de moyens de subsistance devraient être examinées simultanément. Il sera nécessaire de soutenir ces communautés vivant dans les zones côtières par des alertes précoces, des actions de sensibilisation précoces, ainsi que des activités de plaidoyer et un soutien à la réinstallation lorsque cela est possible.",
+                        "learning_validated_ar":  "أفاد 12٪ ممن ساعدتهم وشملهم الاستطلاع من قبل جمعية الهلال الأحمر الفيتنامي أنهم تعرضوا لموجة العواصف وفقدوا ممتلكاتهم وممتلكاتهم أثناء الإعصار نتيجة لذلك. ولا يمكن تحسين هذا الوضع بالحلول التقنية وحدها، لأن المسائل المتعلقة بملكية الأراضي وسبل العيش تحتاج إلى النظر فيها في آن واحد. وسيكون من الضروري دعم هذه المجتمعات التي تعيش في المناطق الساحلية بالإنذار المبكر والتوعية بالعمل المبكر، إلى جانب الدعوة والدعم لإعادة التوطين حيثما كان ذلك ممكنا.",
+                        "appeal_document_id":  18859,
+                        "type_validated":  2,
+                        "is_validated":  true,
+                        "modified_at":  "2024-01-22T14:00:37.225204Z",
+                        "created_at":  "2024-01-22T14:00:37.225226Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRVU008",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 6
+                                             ],
+                        "per_component_validated":  [
+                                                        32,
+                                                        30,
+                                                        6
+                                                    ]
+                    },
+                    {
+                        "id":  15061,
+                        "appeal":  {
+                                       "id":  3868,
+                                       "code":  "MDRMG022",
+                                       "name":  "Madagascar - Cyclone",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  4,
+                                                             "id":  7006,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+                                                                                           {
+                                                                                               "iso":  "MG",
+                                                                                               "iso3":  "MDG",
+                                                                                               "id":  109,
+                                                                                               "record_type":  1,
+                                                                                               "record_type_display":  "Country",
+                                                                                               "region":  0,
+                                                                                               "independent":  true,
+                                                                                               "is_deprecated":  false,
+                                                                                               "fdrs":  "DMG001",
+                                                                                               "average_household_size":  null,
+                                                                                               "society_name":  "Malagasy Red Cross Society",
+                                                                                               "name":  "Madagascar",
+                                                                                               "translation_module_original_language":  "en"
+                                                                                           }
+                                                                                       ],
+                                                             "start_date":  "2024-04-08T00:00:00Z",
+                                                             "name":  "MDG: Cyclone - 2024-03-27 - TC Gamane",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  109,
+                                       "start_date":  "2024-04-08T00:00:00Z"
+                                   },
+                        "document_url":  "https://go-api.ifrc.org/api/DownloadFile/87574/MDRMG022dfr",
+                        "document_name":  "Madagascar - Cyclone (MDRMG022)",
+                        "learning_en":  "15 people reported experiencing sexual exploitation according to the satisfaction survey results. However, after an on-site investigation by the Malagasy Red Cross (CRM), it was found that there was no actual act of sexual exploitation, but rather a misunderstanding of the questions by these 15 respondents. After investigation, the CRM Team realized this misinterpretation of questionnaires and add on their report some recommendations to avoid this kind of issue in future operations.",
+                        "learning_es":  null,
+                        "learning_fr":  null,
+                        "learning_ar":  null,
+                        "learning_validated":  "15 people reported experiencing sexual exploitation according to the satisfaction survey results. However, after an on-site investigation by the Malagasy Red Cross (CRM), it was found that there was no actual act of sexual exploitation, but rather a misunderstanding of the questions by these 15 respondents. After investigation, the CRM Team realized this misinterpretation of questionnaires and add on their report some recommendations to avoid this kind of issue in future operations.",
+                        "learning_validated_en":  "15 people reported experiencing sexual exploitation according to the satisfaction survey results. However, after an on-site investigation by the Malagasy Red Cross (CRM), it was found that there was no actual act of sexual exploitation, but rather a misunderstanding of the questions by these 15 respondents. After investigation, the CRM Team realized this misinterpretation of questionnaires and add on their report some recommendations to avoid this kind of issue in future operations.",
+                        "learning_validated_es":  null,
+                        "learning_validated_fr":  null,
+                        "learning_validated_ar":  null,
+                        "appeal_document_id":  27245,
+                        "type_validated":  2,
+                        "is_validated":  true,
+                        "modified_at":  "2025-07-09T10:46:02.719281Z",
+                        "created_at":  "2025-05-21T13:25:18.943283Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRMG022",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 2
+                                             ],
+                        "per_component_validated":  [
+                                                        14,
+                                                        5
+                                                    ]
+                    },
+                    {
+                        "id":  7246,
+                        "appeal":  {
+                                       "id":  3376,
+                                       "code":  "MDRZM013",
+                                       "name":  "Zambia - Dam Spillage",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  27,
+                                                             "id":  5186,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2021-01-05T00:00:00Z",
+                                                             "name":  "Zambia - Dam Spillage",
+                                                             "translation_module_original_language":  "en"
+                                                         },
+                                       "country":  12,
+                                       "start_date":  "2021-01-05T00:00:00Z"
+                                   },
+                        "document_url":  null,
+                        "document_name":  null,
+                        "learning_en":  "15 recipients who lost vital documents and gadgets in the flash flood, has difficulties accessing the due support. These vital documents (National Identity Card) and gadgets (Mobile Phone) are a requirement for sim card registration with the mobile financial service provider. ZRCS with support for the Mumbwa District",
+                        "learning_es":  "15 destinatarios que perdieron documentos y dispositivos vitales en la inundación repentina, tienen dificultades para acceder al debido soporte. Estos documentos vitales (Documento Nacional de Identidad) y dispositivos (teléfono móvil) son un requisito para el registro de la tarjeta SIM con el proveedor de servicios financieros móviles. ZRCS con apoyo para el distrito de Mumbwa",
+                        "learning_fr":  "15 destinataires qui ont perdu des documents et des gadgets vitaux lors de la crue soudaine ont des difficultés à accéder à l’aide nécessaire. Ces documents vitaux (carte d’identité nationale) et gadgets (téléphone portable) sont une condition préalable à l’enregistrement de la carte SIM auprès du fournisseur de services financiers mobiles. ZRCS avec soutien au district de Mumbwa",
+                        "learning_ar":  "يواجه 15 مستلما فقدوا المستندات والأدوات الحيوية في الفيضان المفاجئ صعوبات في الوصول إلى الدعم الواجب. هذه المستندات الحيوية (بطاقة الهوية الوطنية) والأدوات (الهاتف المحمول) هي شرط لتسجيل بطاقة SIM مع مزود الخدمة المالية عبر الهاتف المحمول. جمعية الهلال الأحمر الزكريزي بدعم لمقاطعة مومبوا",
+                        "learning_validated":  "15 recipients who lost vital documents and gadgets in the flash flood, has difficulties accessing the due support. These vital documents (National Identity Card) and gadgets (Mobile Phone) are a requirement for sim card registration with the mobile financial service provider. ZRCS with support for the Mumbwa District",
+                        "learning_validated_en":  "15 recipients who lost vital documents and gadgets in the flash flood, has difficulties accessing the due support. These vital documents (National Identity Card) and gadgets (Mobile Phone) are a requirement for sim card registration with the mobile financial service provider. ZRCS with support for the Mumbwa District",
+                        "learning_validated_es":  "15 destinatarios que perdieron documentos y dispositivos vitales en la inundación repentina, tienen dificultades para acceder al debido soporte. Estos documentos vitales (Documento Nacional de Identidad) y dispositivos (teléfono móvil) son un requisito para el registro de la tarjeta SIM con el proveedor de servicios financieros móviles. ZRCS con apoyo para el distrito de Mumbwa",
+                        "learning_validated_fr":  "15 destinataires qui ont perdu des documents et des gadgets vitaux lors de la crue soudaine ont des difficultés à accéder à l’aide nécessaire. Ces documents vitaux (carte d’identité nationale) et gadgets (téléphone portable) sont une condition préalable à l’enregistrement de la carte SIM auprès du fournisseur de services financiers mobiles. ZRCS avec soutien au district de Mumbwa",
+                        "learning_validated_ar":  "يواجه 15 مستلما فقدوا المستندات والأدوات الحيوية في الفيضان المفاجئ صعوبات في الوصول إلى الدعم الواجب. هذه المستندات الحيوية (بطاقة الهوية الوطنية) والأدوات (الهاتف المحمول) هي شرط لتسجيل بطاقة SIM مع مزود الخدمة المالية عبر الهاتف المحمول. جمعية الهلال الأحمر الزكريزي بدعم لمقاطعة مومبوا",
+                        "appeal_document_id":  18552,
+                        "type_validated":  2,
+                        "is_validated":  true,
+                        "modified_at":  "2024-01-22T14:14:38.241448Z",
+                        "created_at":  "2024-01-22T14:14:38.241471Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRZM013",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 9
+                                             ],
+                        "per_component_validated":  [
+                                                        31
+                                                    ]
+                    },
+                    {
+                        "id":  7608,
+                        "appeal":  {
+                                       "id":  3656,
+                                       "code":  "MDRCM032",
+                                       "name":  "Cameroon - Cholera and Monkeypox",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  1,
+                                                             "id":  6250,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2022-11-30T00:00:00Z",
+                                                             "name":  "CMR: Epidemic- 2022-10 - Epidemics (Monkeypox and cholera) and floods",
+                                                             "translation_module_original_language":  "fr"
+                                                         },
+                                       "country":  41,
+                                       "start_date":  "2022-11-30T00:00:00Z"
+                                   },
+                        "document_url":  "https://go-api.ifrc.org/api/DownloadFile/67785/MDRCM032fr",
+                        "document_name":  "Cameroon - Cholera and Monkeypox (MDRCM032)",
+                        "learning_en":  "187,294 households, combined with the disparity of houses in rural areas, causing long distances to be covered.",
+                        "learning_es":  "187.294 hogares, combinado con la disparidad de viviendas en las zonas rurales, hace que se cubran largas distancias.",
+                        "learning_fr":  "187 294 ménages, combinés à la disparité des logements en milieu rural, entraînant la couverture de longues distances.",
+                        "learning_ar":  "187,294 أسرة، إلى جانب التفاوت في المنازل في المناطق الريفية، مما تسبب في تغطية مسافات طويلة.",
+                        "learning_validated":  "187,294 households, combined with the disparity of houses in rural areas, causing long distances to be covered.",
+                        "learning_validated_en":  "187,294 households, combined with the disparity of houses in rural areas, causing long distances to be covered.",
+                        "learning_validated_es":  "187.294 hogares, combinado con la disparidad de viviendas en las zonas rurales, hace que se cubran largas distancias.",
+                        "learning_validated_fr":  "187 294 ménages, combinés à la disparité des logements en milieu rural, entraînant la couverture de longues distances.",
+                        "learning_validated_ar":  "187,294 أسرة، إلى جانب التفاوت في المنازل في المناطق الريفية، مما تسبب في تغطية مسافات طويلة.",
+                        "appeal_document_id":  27964,
+                        "type_validated":  2,
+                        "is_validated":  true,
+                        "modified_at":  "2024-05-07T09:35:48.561427Z",
+                        "created_at":  "2024-02-26T16:31:54.289869Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRCM032",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 0
+                                             ],
+                        "per_component_validated":  [
+                                                        32
+                                                    ]
+                    },
+                    {
+                        "id":  20547,
+                        "appeal":  {
+                                       "id":  3766,
+                                       "code":  "MDRMR015",
+                                       "name":  "Mauritania - Floods",
+                                       "atype":  "DREF",
+                                       "event_details":  {
+                                                             "dtype":  12,
+                                                             "id":  6586,
+                                                             "slug":  null,
+                                                             "parent_event":  null,
+                                                             "emergency_response_contact_email":  null,
+                                                             "countries_for_preview":  [
+
+                                                                                       ],
+                                                             "start_date":  "2023-08-19T00:00:00Z",
+                                                             "name":  "MRT: Flood - 2023-07 - Boghé Flood 2023",
+                                                             "translation_module_original_language":  "fr"
+                                                         },
+                                       "country":  114,
+                                       "start_date":  "2023-08-19T00:00:00Z"
+                                   },
+                        "document_url":  "https://go-api.ifrc.org/api/DownloadFile/85151/MDRMR015dfr",
+                        "document_name":  "Mauritania - Floods (MDRMR015)",
+                        "learning_en":  "18 awareness sessions improved hygiene practices — 85% of people reported better habits, demonstrating strong behavior change potential.",
+                        "learning_es":  null,
+                        "learning_fr":  null,
+                        "learning_ar":  null,
+                        "learning_validated":  "18 awareness sessions improved hygiene practices — 85% of people reported better habits, demonstrating strong behavior change potential.",
+                        "learning_validated_en":  "18 awareness sessions improved hygiene practices — 85% of people reported better habits, demonstrating strong behavior change potential.",
+                        "learning_validated_es":  null,
+                        "learning_validated_fr":  null,
+                        "learning_validated_ar":  null,
+                        "appeal_document_id":  27613,
+                        "type_validated":  1,
+                        "is_validated":  true,
+                        "modified_at":  "2026-08-19T10:15:22.059272Z",
+                        "created_at":  "2026-05-01T08:28:01.094388Z",
+                        "translation_module_original_language":  "en",
+                        "translation_module_skip_auto_translation":  false,
+                        "appeal_code":  "MDRMR015",
+                        "organization_validated":  [
+                                                       2
+                                                   ],
+                        "sector_validated":  [
+                                                 0
+                                             ],
+                        "per_component_validated":  [
+                                                        14
+                                                    ]
+                    }
+                ]
+}
