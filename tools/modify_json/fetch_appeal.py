@@ -1,4 +1,4 @@
-# This script reads ops_learning.jsonl and pulls out the "appeal" part of each record,
+# This script reads learnings.jsonl and pulls out the "appeal" part of each record,
 # saving each unique appeal to its own file in JSON Lines format.
 #
 # Many learning records belong to the same appeal, so each appeal is only written once
@@ -7,13 +7,10 @@
 import json
 from pathlib import Path
 
-# Build paths relative to this script so it works from any folder.
-# This file lives in tools/modify_json/, so the repo root is two levels up.
 ROOT = Path(__file__).resolve().parents[2]
-IN_FILE = ROOT / "data" / "big" / "ops_learning.jsonl"
-OUT_FILE = ROOT / "data" / "big" / "appeals.jsonl"
+IN_FILE = ROOT / "data" / "big" / "learnings.jsonl"
+OUT_FILE = ROOT / "data" / "big" / "test.jsonl"
 
-# Unique appeals, keyed by id, in the order they are first seen
 appeals = {}
 
 records = 0
@@ -41,18 +38,8 @@ with open(IN_FILE, encoding="utf-8") as inp:
 
         appeals.setdefault(appeal["id"], appeal)
 
-print(f"Read {records} records")
+with open(OUT_FILE, "w", encoding="utf-8") as out:
+    for appeal in appeals.values():
+        out.write(json.dumps(appeal, ensure_ascii=False) + "\n")
 
-# Only write the file if we actually found full appeal objects,
-# so we never wipe an existing appeals.jsonl with an empty one.
-if not appeals:
-    print("No full appeal objects found (ops_learning.jsonl may already contain only ids).")
-    print(f"Left {OUT_FILE} unchanged.")
-else:
-    with open(OUT_FILE, "w", encoding="utf-8") as out:
-        for appeal in appeals.values():
-            out.write(json.dumps(appeal, ensure_ascii=False) + "\n")
-    print(f"Wrote {len(appeals)} unique appeals to {OUT_FILE}")
-
-if missing:
-    print(f"{missing} records had no appeal")
+print(f"Records: {records}, Missing Appeals: {missing}, Unique appeals: {len(appeals)}")
