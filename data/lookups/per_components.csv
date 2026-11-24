@@ -1,0 +1,52 @@
+id,component_num,component_letter,component_code,area_num,area_title,title,is_parent
+1,1,,1,1,"Policy, Strategy and Standards","RC auxiliary role, Mandate and Law",false
+2,2,,2,1,"Policy, Strategy and Standards",DRM Strategy,false
+3,3,,3,1,"Policy, Strategy and Standards",DRM Policy,false
+4,4,,4,1,"Policy, Strategy and Standards","DRM Laws, Advocacy and Dissemination",false
+5,5,,5,1,"Policy, Strategy and Standards",Quality and accountability,false
+6,6,,6,2,Analysis and Planning,"Hazard, Context and Risk Analysis, Monitoring and Early Warning",false
+7,7,,7,2,Analysis and Planning,Scenario planning,false
+8,8,,8,2,Analysis and Planning,Risk management,false
+9,9,,9,2,Analysis and Planning,Preparedness plans and budgets,false
+10,10,,10,2,Analysis and Planning,Business continuity,false
+11,11,,11,2,Analysis and Planning,Emergency Response Procedures (SOPs),false
+12,12,,12,2,Analysis and Planning,Response and recovery planning,false
+13,13,,13,2,Analysis and Planning,Pre-disaster meetings and agreements,false
+14,14,,14,3,Operational Capacity,NS-specific areas of intervention,true
+15,14,A,14A,3,Operational Capacity,COMMUNITY-BASED DP AND DRR,false
+16,14,B,14B,3,Operational Capacity,EVACUATION,false
+17,14,C,14C,3,Operational Capacity,HEALTH IN EMERGENCIES,false
+18,14,D,14D,3,Operational Capacity,FIRST AID,false
+19,14,E,14E,3,Operational Capacity,WATER AND SANITATION,false
+20,14,F,14F,3,Operational Capacity,FOOD SECURITY,false
+21,14,G,14G,3,Operational Capacity,LIVELIHOOD SECURITY AND SAFETY NETS,false
+22,14,H,14H,3,Operational Capacity,SEARCH AND RESCUE,false
+23,14,I,14I,3,Operational Capacity,"SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",false
+24,14,J,14J,3,Operational Capacity,MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION,false
+25,14,K,14K,3,Operational Capacity,RESTORING FAMILY LINKS (RFL),false
+26,14,L,14L,3,Operational Capacity,TRANSITION TO RECOVERY,false
+27,14,M,14M,3,Operational Capacity,"CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",false
+28,14,N,14N,3,Operational Capacity,COMMUNITY BASED HEALTH & FIRST AID (CBHFA),false
+29,15,,15,3,Operational Capacity,Mapping of NS capacities,false
+30,16,,16,3,Operational Capacity,Early Action Mechanisms,false
+31,17,,17,3,Operational Capacity,Cash Based Intervention (CBI),false
+32,18,,18,3,Operational Capacity,Emergency Needs Assessment,false
+33,19,,19,3,Operational Capacity,Affected population selection,false
+34,20,,20,3,Operational Capacity,Emergency Operations Centre (EOC),false
+35,21,,21,3,Operational Capacity,Information Management (IM),false
+36,22,,22,3,Operational Capacity,Testing and Learning,false
+37,23,,23,3,Operational Capacity,Activation of regional and international support,false
+38,24,,24,4,Coordination,Coordination with Movement,false
+39,25,,25,4,Coordination,Coordination with authorities,false
+40,26,,26,4,Coordination,Coordination with External Agencies and NGOs,false
+41,27,,27,4,Coordination,Civil Military Relations,false
+42,28,,28,4,Coordination,Coordination with local community level responders,false
+43,29,,29,4,Coordination,Cooperation with private sector,false
+44,30,,30,5,Operations Support,Safety and security management,false
+45,31,,31,5,Operations Support,"Operations Monitoring, Evaluation, Reporting and Learning",false
+46,32,,32,5,Operations Support,Finance and Admin policy and emergency procedures,false
+47,33,,33,5,Operations Support,Information and Communication Technology (ICT),false
+48,34,,34,5,Operations Support,"Logistics, procurement and supply chain",false
+54,35,,35,5,Operations Support,Staff and volunteer management,false
+55,36,,36,5,Operations Support,Communication in emergencies,false
+56,37,,37,5,Operations Support,Resource Mobilisation,false
